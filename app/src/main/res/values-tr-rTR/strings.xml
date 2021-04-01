@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">VIRUSCORONAPP</string>
+    <string name="intro">VirusCoronApp kişisel verilerinizi talep etmez ve ticari gelir elde etmek için kullanmaz. Bize doğru bilgi vermeniz hem sizin hem çevrenizdekilerin sağlığı açısından önemlidir. Sağlıklı günlere hep beraber...</string>
+    <string name="infected">Hastayım</string>
+    <string name="risk_group">Risk Grubundayım</string>
+    <string name="suspected">Şüpheliyim</string>
+    <string name="over">Atlattım</string>
+    <string name="healthy">Sağlıklıyım</string>
+    <string name="next">Devam ET</string>
+    <string name="risk_grup_link">https://covid19bilgi.saglik.gov.tr/tr/covid19-kimler-risk-altinda</string>
+    <string name="symptom_link">https://covid19bilgi.saglik.gov.tr/tr/covid-19-yeni-koronavirus-hastaligi-belirtileri-nelerdir</string>
+    <string name="prezervation_link">https://covid19bilgi.saglik.gov.tr/tr/covid-19-yeni-koronavirus-hastaligi-na-yakalanmamak-i-cin-oneriler</string>
+
+</resources>

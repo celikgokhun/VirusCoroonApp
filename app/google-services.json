@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227305920175",
+    "firebase_url": "https://viruscoron-a143c.firebaseio.com",
+    "project_id": "viruscoron-a143c",
+    "storage_bucket": "viruscoron-a143c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227305920175:android:c557c3a010b1a9b684e65a",
+        "android_client_info": {
+          "package_name": "com.celik.gokhun.viruscoronapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227305920175-6p5mf6copf14b2tnlu4aucls4vaqjv17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mf3-H8EBtIXkGSY9LtREJwbpOo8jf6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227305920175-6p5mf6copf14b2tnlu4aucls4vaqjv17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

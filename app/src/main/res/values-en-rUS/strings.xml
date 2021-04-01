@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VIRUSCORONAPP</string>
+    <string name="intro">VirusCoronApp does not request your personal data and does not use it to generate commercial income. Giving us the right information is important for the health of both you and those around you. All together for healthy days ...</string>
+    <string name="infected">Infected</string>
+    <string name="risk_group">Risk Group</string>
+    <string name="suspected">Suspected</string>
+    <string name="over">Over</string>
+    <string name="healthy">Healthy</string>
+    <string name="next">Next</string>
+    <string name="risk_grup_link">https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-and-covid19-who-is-at-higher-risk</string>
+    <string name="symptom_link">https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-what-if-i-feel-sick</string>
+    <string name="prezervation_link">https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/how-can-i-protect-myself-from-coronavirus</string>
+</resources>
